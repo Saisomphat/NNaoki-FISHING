@@ -1,11 +1,11 @@
 -- Configuration variables
 local config = {
     fpsCap = 9999,
-    disableChat = true,            -- Set to true to hide the chat
-    enableBigButton = true,        -- Set to true to enlarge the button in the shake UI
-    bigButtonScaleFactor = 2,      -- Scale factor for big button size
-    shakeSpeed = 0.05,             -- Lower value means faster shake (e.g., 0.05 for fast, 0.1 for normal)
-    FreezeWhileFishing = true      -- Set to true to freeze your character while fishing
+    disableChat = true,           
+    enableBigButton = true,        
+    bigButtonScaleFactor = 2,      
+    shakeSpeed = 0.05,            
+    FreezeWhileFishing = true    
 }
 
 -- Set FPS cap
